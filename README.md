@@ -1,0 +1,5 @@
+- 👋 Hi, I’m a freelancer
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning AI and ML
+- 💞️ I’m looking to collaborate on JVM ecosystem projects
+- 📫 write me to munish.javaprof@gmail.com
